@@ -3,7 +3,13 @@
 Palculator is a Free and Open Source Calculator App for GNU/Linux. Written in Qt/C++.
 
 
-Locate palculator-main in your Terminal and make it executable with 
+Locate palculator-main directory in your Terminal with 
+```
+cd
+```
+command. 
+
+And make it executable with 
 ```
 chmod +x ./Palculator
 ```
